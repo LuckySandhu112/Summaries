@@ -1,0 +1,38 @@
+How to compete with AI- Dharmesh shah co-founder and CTO of Hubspot
+https://youtu.be/msCLJBLooXo?si=rhR9tLjsWXZwTytT
+
+How do you compete with AI?
+(Against or using AI)
+According to a survey made by Dharmesh co founder and CTO of HubSpot 34% of the people choose against AI and 66% of people chose using AI.
+
+HOW AI works?
+GPT(Generative Pre-training Transformer)
+Generative-to generate what should come next 
+example-   A horse jumped over the ______
+                       Chances   
+           a) Fence    (0.45)
+           b) Hurdle   (0.20)
+           c) Wall     (0.15)
+           d) Log      (0.10)
+           e) Moon     (0.05)
+
+if we choose (a) 
+the sentence will be-- The horse jumped over the fence
+and if we say to generate a line which continues the sentence the AI will add something like-- then galloped across the field.
+The whole sentence will be-- The horse jumped over the fence then galloped across the field.
+
+Pre training-to pass the text to a large language model and then predicting what should come next.
+
+TEXT-->LARGE LANGUAGE MODEL-->PREDICTION
+
+LLMs are like autocomplete with a PHD in everything 
+
+Human <<<----------AI generation---------->>>Computer
+ Text, Image, Video                    Code
+
+We are now in the age of AI agents.
+What is AI agent ?
+Software that uses AI to accomplish a stated goal requiring multiple steps.
+
+
+"AI won't take your job Someone using AI will"
