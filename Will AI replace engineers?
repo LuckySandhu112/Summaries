@@ -2,37 +2,124 @@ https://youtu.be/yaPOxsZsB90?si=bwnaJSHmYqVV-3j_
 
 
 
-Logan Kilpatrick mentions in his interview at Google I/O that from past 1 year there is a growth of 40-50x in AI usage across Google.
-Gemini app has 400 million+ users and 7+ million developers.
-According to Logan the AI does the 1-2% of the work and rest 98-99% is done by developers.
-The human experience is one of the most differentiated thing as once experience is not any training data everyone has a different background.
 
-WHY ARE ALL THESE COMPANIES BUILDING AI??
-It's because this thing benefits humanity as we want to find something like a best restaurant near us or we have to make some stuff and we need to know what all things we need so we can ask AI and it will help a lot.
+> Logan Kilpatrick at Google I/O – AI Growth & Developer Insights
+Logan Kilpatrick mentions in his interview at Google I/O that over the past year, there has been a 40–50x growth in AI usage across Google.
 
-AI boosts the speed and understanding of making codes, as an example we have two people one who uses AI in his project and the another one who doesn't the one who is using AI will make the project more easily and fast than the other one.
+The Gemini app now has 400+ million users and 7+ million developers.
 
-According to Logan now is the best time to become a developer.
+According to Logan, AI performs only 1–2% of the work, and the remaining 98–99% is still done by developers.
 
-The conclusion- AI will help to boost the speed, the creativity in code, and making better things than the things that had been made in past.
+He emphasizes that:
 
+The human experience is one of the most differentiated things, because experience is not part of training data — everyone has a different background.
 
+> Why Are All These Companies Building AI?
+Because AI benefits humanity in practical ways:
 
+Finding the best restaurant nearby
 
-JULIA-It is a high-level, general-purpose dynamic programming language, designed to be fast and productive, for example- Data science, artificial intelligence, machine learning, modelling and simulation, most commonly used for numerical analysis and computational science.
+Figuring out what ingredients are needed for a recipe
 
-WRAPPERS- Wrappers are simplified interfaces or layers built around complex code, libraries, or APIs. They allow developers to easily interact with underlying functionalities without needing to manage detailed or complex operations directly, helping speed up integration and development.
+Getting instant, personalized help through intelligent systems
 
-APPLICATION LAYER- The application layer refers to the top of software systems that users interact with directly- such as applications, user interfaces, or services. it provides specific functions and user-facing features, built on underlying technical infrastructure.
+AI helps speed up coding and improve understanding.
 
-COMMODITY LAYER- The commodity layer describes foundational resources(like compute power, data storage, or network services) that are widely available, easily interchangeable, and usually low-cost. These low-cost. These serve as the basic building blocks on which specialized or custom software solutions are developed.
+Example: If two people are working on the same project — one using AI, the other not — the one using AI will finish faster and with more ease.
 
-AI CO PRESENCE- AI co presence refers to AI systems that continuously observe users activities (such as viewing a screen or listening to conversations) to understand context and proactively provide relevant assistance, similar to having a helpful companion nearby.
+> According to Logan, now is the best time to become a developer.
 
-MULTIMODAL AI- Multimodal AI means AI systems that can process multiple data types- like text, images, audio, and video all at once. For example, an AI that can read text, recognize images, and listen to speech simultaneously, creating more natural and human like interactions.
+> Conclusion
+AI boosts speed, creativity, and productivity in coding — helping developers build better things than ever before.
 
-SINGLE AUTHENTICATION- Single authentication is a login method allowing users to securely sign in just once to gain access across multiple connected applicants or services. it streamlines user experience by eliminating the need to repeatedly enter usernames and passwords for each service while maintaining security.
+> Key Terms & Concepts
+JULIA
+A high-level, general-purpose dynamic programming language, designed for speed and productivity.
+Commonly used in:
+Data science
+Artificial intelligence
+Machine learning
+Modeling and simulation
+Numerical analysis & computational science
 
-DISTRIBUTION AND LOCK IN EFFECTS- Distribution effects refers to how quickly and wildely a product spreads among users, while Lock-in Effects happen when users become dependent on a product, making it harder to switch to competitors. Together,these effects can strongly influence market dominance and user loyalty.
+WRAPPERS
+Simplified interfaces or layers built around complex code, libraries, or APIs.
+They help developers interact with core functionality without needing to manage low-level operations — speeding up integration and development.
 
-JULES- Jules is an asynchronous, agentic coding assistant that integrates directly with your existing repositries. it securely understands your entire projext context, automatically writing tests,building new features, fixing bugs, updating dependecles, and generating ausio summaries of code changes.
+APPLICATION LAYER
+The top layer of software systems that users directly interact with — such as:
+
+Applications
+
+User interfaces
+
+Services
+
+It provides user-facing features, built on top of the underlying technical infrastructure.
+
+COMMODITY LAYER
+Describes foundational resources like:
+
+Compute power
+
+Data storage
+
+Network services
+
+These are:
+Widely available
+Easily replaceable
+Low-cost
+
+They form the building blocks for specialized or custom software solutions.
+
+AI CO-PRESENCE
+AI systems that observe user activity (e.g., screen viewing or listening to conversations) to:
+
+Understand context
+
+Proactively provide relevant assistance
+
+Similar to having a helpful AI companion nearby.
+
+MULTIMODAL AI
+AI systems that can process multiple data types at once, such as:
+
+Text
+Images
+Audio
+Video
+
+This enables more natural, human-like interaction.
+
+SINGLE AUTHENTICATION
+A secure login method allowing users to sign in once and access multiple connected applications or services.
+This:
+
+Streamlines the user experience
+
+Maintains security
+
+Eliminates repeated logins
+
+DISTRIBUTION AND LOCK-IN EFFECTS
+Distribution effects: How quickly and widely a product spreads.
+
+Lock-in effects: When users become dependent on a product, making it difficult to switch to competitors.
+
+Together, they influence:
+
+Market dominance
+
+User retention and loyalty
+
+JULES
+Jules is an asynchronous, agentic coding assistant that integrates directly with your existing repositories.
+
+It:
+Securely understands your entire project context
+Automatically writes tests
+Builds new features
+Fixes bugs
+Updates dependencies
+Generates audio summaries of code changes
